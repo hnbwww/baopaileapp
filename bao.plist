@@ -16,26 +16,33 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>					
 					<key>url</key>
 					<string>https://m.qkswl.com/app/bao.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>					
 					<key>url</key>
 					<string>https://m.qkswl.com/app/bao.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>宝拍乐</string>
+                <key>bundle-identifier</key>
+                <string>com.zhongpai.weipai</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>install app</string>
+                <key>title</key>
+                <string>宝拍乐</string>
+	
 			</dict>
 		</dict>
 	</array>
